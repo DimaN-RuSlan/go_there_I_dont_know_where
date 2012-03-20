@@ -9,17 +9,14 @@
 В некотором царстве, некотором государстве жил да был честной народ.
 <br/><br/>
 Продолжение следует...
+<br/><br/>
+<a href="http://cka3ka.reformal.ru" onclick="Reformal.widgetOpen();return false;" onmouseover="Reformal.widgetPreload();">Оставь мне весточку...</a>
 
 <script type="text/javascript">
     var reformalOptions = {
         project_id: 58025,
-        project_host: "cka3ka.reformal.ru",
-        tab_orientation: "left",
-        tab_indent: "50%",
-        tab_bg_color: "#F05A00",
-        tab_border_color: "#FFFFFF",
-        tab_image_url: "http://tab.reformal.ru/T9GC0LfRi9Cy0Ysg0Lgg0L%252FRgNC10LTQu9C%252B0LbQtdC90LjRjw==/FFFFFF/2a94cfe6511106e7a48d0af3904e3090/left/1/tab.png",
-        tab_border_width: 2
+        show_tab: false,
+        project_host: "cka3ka.reformal.ru"
     };
     
     (function() {
